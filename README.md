@@ -30,5 +30,3 @@ Lombok,... Containerize your app, make a CI/CD
 pipeline for it. Build some monitoring for it. 
 The learning opportunities are endless even if 
 the actual app is boring and useless af.
-
-
